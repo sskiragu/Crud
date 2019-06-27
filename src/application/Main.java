@@ -24,7 +24,7 @@ public class Main extends Application {
 			scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
 			primaryStage.setScene(scene);
 			primaryStage.setResizable(false);
-			primaryStage.setTitle("JavaFX + Database + Jasper Report Basic CRUD");
+			primaryStage.setTitle("Class CRUD Example");
 			primaryStage.show();
 			
 		} catch(Exception e) {

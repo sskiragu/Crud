@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 public class DBConnection {
 
 	private final String dburl = "jdbc:mysql://localhost:3306/javafx_jasper";
-	private final String username = "ken"; // my  username is ken
+	private final String username = "root"; // my  username is ken
 	private final String password = ""; // my password is null
 	private Connection connect;
 
