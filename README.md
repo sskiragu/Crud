@@ -1,2 +1,2 @@
-# javafx_CRUD-with-jasper_report
-Starter source code only
+#Learning purpose
+Crud Test app
